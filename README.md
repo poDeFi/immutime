@@ -18,7 +18,7 @@ A watch is defined by:
 
 ### OpenSea collection
 
-The NFTs can be found in the ImmuTime OpenSea collection (Opens Soon!)
+The NFTs can be found in the [ImmuTime OpenSea collection](https://opensea.io/collection/immutime)
 
 ### Want to create digital artworks for those NFTs?
 
